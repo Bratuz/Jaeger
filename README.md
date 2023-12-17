@@ -75,7 +75,8 @@ A FAIRE ENCORE
 
 <br/>
 
-Code pour Confusion Matrix : https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Confusion_Matrix.ipynb
+Code pour [Confusion Matrix]([URL_du_fichier](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Confusion_Matrix.ipynb))
+
 
 <br/>
 
