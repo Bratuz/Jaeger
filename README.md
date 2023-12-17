@@ -10,6 +10,8 @@ Le projet "LingoRank" vise à résoudre un défi majeur dans l'apprentissage des
 
 Brève Description de la Solution
 Nous avons développé un modèle d'intelligence artificielle utilisant Camembert, une version française de BERT, pour classer les textes français selon leur difficulté. Notre modèle, formé sur un ensemble de données annotées et évalué sur des textes non étiquetés, prédit avec précision le niveau de difficulté d'un texte. Il offre ainsi une solution personnalisée pour améliorer l'apprentissage du français chez les anglophones, en recommandant des textes appropriés à leur niveau de compétence linguistique.
+<br/>
+<br/>
 
 
 Nous allons donc vous présenter notre application et notre model Jaeger !
