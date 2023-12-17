@@ -75,6 +75,10 @@ A FAIRE ENCORE
 
 <br/>
 
+Code pour Confusion Matrix : 
+
+<br/>
+
 
 <h2 align="center">Analyse</h2>
 
