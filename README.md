@@ -63,7 +63,7 @@ A FAIRE ENCORE
 
 <br/>
 
-<img width="300" alt="Sans titre" src="https://github.com/Bratuz/Jaeger/assets/119636152/1718bac0-1c40-4570-a1d1-d38b33c95123" align="center">
+<img width="300" alt="Sans titre" align="center" src="https://github.com/Bratuz/Jaeger/assets/119636152/1718bac0-1c40-4570-a1d1-d38b33c95123">
 
 
 
