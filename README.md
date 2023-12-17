@@ -22,6 +22,10 @@ Nous allons donc vous présenter notre application Jaeger !
 
 <br/>
 
+<h2 align="center">Our Results</h2>
+
+<br/>
+
 |                      | Logistic Regression | kNN   | Decision Tree | Random Forests | Any Other Technique |
 |----------------------|---------------------|-------|---------------|----------------|---------------------|
 | Precision            |                     |       |               |                |                     |
