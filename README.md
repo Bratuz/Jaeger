@@ -15,7 +15,6 @@ Nous avons développé un modèle d'intelligence artificielle utilisant Camember
 <br/>
 <br/>
 <br/>
-<br/>
 
 Nous allons donc vous présenter notre application et notre model Jaeger !
 
@@ -27,6 +26,8 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
     <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200">
 </div>
 
+<br/>
+<br/>
 <br/>
 
 <h2 align="center">Our Results</h2>
