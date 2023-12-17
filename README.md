@@ -96,7 +96,7 @@ Expliquer un peu pourquoi ducoup pourquoi ca été notre meilleur modele, quelle
 
 Voici le code : 
 
-Lien pour code :[Streamlit](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/StreamlitJaeger.py)
+Lien pour code : [Streamlit](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/StreamlitJaeger.py)
 
 <br/>
 
