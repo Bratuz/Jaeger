@@ -14,15 +14,13 @@ Nous avons développé un modèle d'intelligence artificielle utilisant Camember
 
 Nous allons donc vous présenter notre application Jaeger !
 
-
-
+<br/>
 
 <div align="center">
-    <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200" margin-top="30">
+    <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200">
 </div>
 
-
-
+<br/>
 
 |                      | Logistic Regression | kNN   | Decision Tree | Random Forests | Any Other Technique |
 |----------------------|---------------------|-------|---------------|----------------|---------------------|
