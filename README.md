@@ -28,7 +28,6 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center">Our Results</h2>
 
@@ -84,6 +83,23 @@ A FAIRE ENCORE
 Expliquer un peu pourquoi ducoup pourquoi ca été notre meilleur modele, quelles ont été les fonctions méthodes qui ont permis ce score blablabl
 
 <br/>
+
+<h2 align="center">Streamlit</h2>
+
+<br/>
+
+Voici le code : 
+
+Lien pour code : bkbuigzguzff A FAIRE
+
+<br/>
+
+<h2 align="center">Youtube Video</h2>
+
+<br/>
+
+Lien vidéo
+
 
 
 
