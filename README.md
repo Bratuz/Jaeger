@@ -41,7 +41,10 @@ Nous allons donc vous présenter notre application Jaeger !
 
 <br/>
 
-### Progress chart based on the methods added
 
 Notre modèle le plus efficace utilise Camembert, un outil avancé pour le traitement du langage naturel en français. L'augmentation significative de notre base de données grâce à une technique de double traduction a également joué un rôle crucial dans l'amélioration de nos prédictions. Cette approche nous a permis d'obtenir des résultats plus précis dans la classification du niveau de difficulté des textes français pour les apprenants anglophones.
+
+<br/>
+
+### Progress chart based on the methods added
 
