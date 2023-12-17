@@ -52,3 +52,16 @@ Notre modèle le plus efficace utilise Camembert, un outil avancé pour le trait
 
 ### Progress chart based on the methods added
 
+
+<br/>
+
+A FAIRE ENCORE
+
+<br/>
+
+### Confusion Matrix
+
+<br/>
+
+A FAIRE
+
