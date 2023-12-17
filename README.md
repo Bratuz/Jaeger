@@ -46,5 +46,9 @@ Notre modèle le plus efficace utilise Camembert, un outil avancé pour le trait
 
 <br/>
 
+(Lien vers notre model à mettre) !!!!!
+
+<br/>
+
 ### Progress chart based on the methods added
 
