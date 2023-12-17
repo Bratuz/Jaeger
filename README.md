@@ -63,7 +63,8 @@ A FAIRE ENCORE
 
 <br/>
 
-![Matrice de Confusion](/Users/hugopierazzi/Downloads/Sans titre.png)
+<img width="300" alt="Sans titre" src="https://github.com/Bratuz/Jaeger/assets/119636152/1718bac0-1c40-4570-a1d1-d38b33c95123">
+
 
 
 
