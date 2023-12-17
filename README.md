@@ -63,5 +63,7 @@ A FAIRE ENCORE
 
 <br/>
 
-A FAIRE
+![Matrice de Confusion](/Users/hugopierazzi/Downloads/Sans titre.png)
+
+
 
