@@ -73,6 +73,13 @@ A FAIRE ENCORE
 
 <h2 align="center">Analyse</h2>
 
+<br/>
+
+Expliquer un peu pourquoi ducoup pourquoi ca été notre meilleur modele, quelles ont été les fonctions méthodes qui ont permis ce score blablabl
+
+<br/>
+
+
 
 
 
