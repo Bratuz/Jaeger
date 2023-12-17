@@ -16,6 +16,18 @@ Nous allons donc vous présenter notre application Jaeger !
 
 
 
+
 <div align="center">
     <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200" margin-top="30">
 </div>
+
+
+
+
+|                      | Logistic Regression | kNN   | Decision Tree | Random Forests | Any Other Technique |
+|----------------------|---------------------|-------|---------------|----------------|---------------------|
+| Precision            |                     |       |               |                |                     |
+| Recall               |                     |       |               |                |                     |
+| F1-score             |                     |       |               |                |                     |
+| Accuracy             |                     |       |               |                |                     |
+
