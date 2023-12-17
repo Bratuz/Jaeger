@@ -16,6 +16,8 @@ Nous allons donc vous présenter notre application Jaeger !
 
 <br/>
 
+<br/>
+
 <div align="center">
     <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200">
 </div>
