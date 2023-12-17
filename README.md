@@ -64,7 +64,7 @@ A FAIRE ENCORE
 <br/>
 
 <div align="center">
-   <img width="300" alt="Sans titre" src="https://github.com/Bratuz/Jaeger/assets/119636152/1718bac0-1c40-4570-a1d1-      d38b33c95123">
+  <img width="540" alt="Sans titre" src="https://github.com/Bratuz/Jaeger/assets/119636152/f9d358b1-374e-40d5-a2ba-1e93be30f85a">
 </div>
 
 
