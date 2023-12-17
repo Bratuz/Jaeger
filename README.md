@@ -62,6 +62,8 @@ A FAIRE ENCORE
 ### Confusion Matrix
 
 <br/>
+<br/>
+<br/>
 
 <div align="center">
   <img width="540" alt="Sans titre" src="https://github.com/Bratuz/Jaeger/assets/119636152/f9d358b1-374e-40d5-a2ba-1e93be30f85a">
