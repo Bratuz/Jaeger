@@ -58,9 +58,15 @@ Brief description of our solution: We have developed a text embedding model, Cam
 
 ### With Text Embeddings Models
 
+*This is the model with Text Embeddings*
+
 <br/>
 
+|               | [Our Project](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Project.ipynb) |
+|---------------|--------------------------------------------------------------------------------------------------------------------|
+| **Accuracy**  | 0.583                                                                                                               |
 
+<br/>
 
 ### Our Best Model
 
