@@ -35,7 +35,7 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 |                      | Logistic Regression | kNN   | Decision Tree | Random Forests | Any Other Technique |
 |----------------------|---------------------|-------|---------------|----------------|---------------------|
-| Precision            |                     |       |               |                |                     |
+| Precision            |       0.4676        |       |               |                |                     |
 | Recall               |                     |       |               |                |                     |
 | F1-score             |                     |       |               |                |                     |
 | Accuracy             |                     |       |               |                |                     |
