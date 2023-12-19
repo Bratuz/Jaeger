@@ -55,6 +55,8 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 ### Different hyperparameters
 
+*Voici les ajustements d'hyperparamètres et les méthodes supplémentaires que nous avons intégrés à notre modèle*
+
 <br/>
 
 | Max Length | Epoch | Learning Rate | Batch Size | Test Accuracy         | Text Embeddings | New Method                   |
