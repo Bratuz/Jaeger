@@ -72,7 +72,7 @@ Our best-performing model is based on Camembert, a cutting-edge technology for a
 
 <br/>
 
-[Best Model](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Confusion_Matrix.ipynb)
+[Best Model](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Project.ipynb)
 
 <br/>
 
