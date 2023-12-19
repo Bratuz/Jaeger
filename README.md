@@ -134,7 +134,10 @@ Code pour [Confusion Matrix](https://github.com/Bratuz/Jaeger/blob/main/detectin
 
 *Class 5 (Level C2): Out of 298 predictions, 216 were correctly classified. However, there is notable confusion with levels B2 (32 cases) and C1 (39 cases).*
 
-General Observations:
+<br/>
+
+**General Observations:**
+
 
 The model is quite effective in distinguishing the basic levels (A1 and A2) from more advanced levels.
 There is notable confusion between adjacent levels, particularly between B1 and B2, and between B2 and C1. This might be due to overlaps in linguistic complexity or similar characteristics at these language levels.
