@@ -14,15 +14,17 @@ Brief description of our solution: We have developed a text embedding model, Cam
 <br/>
 <br/>
 
-We will introduce and delineate our model, detailing the processes and evaluations we conducted to refine it. Ultimately, we will showcase our Streamlit application that incorporates the model.
+<table>
+   <tr>
+      <td>
+         We will introduce and delineate our model, detailing the processes and evaluations we conducted to refine it. Ultimately, we will showcase our Streamlit application that incorporates the model.
+      </td>
+      <td>
+         <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200">
+      </td>
+   </tr>
+</table>
 
-<br/>
-
-<br/>
-
-<div align="center">
-    <img src="https://github.com/Bratuz/Jaeger/assets/119636152/5c973b52-3620-4b95-8d29-86657e92d2da" width="200">
-</div>
 
 <br/>
 <br/>
