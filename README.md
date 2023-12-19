@@ -122,6 +122,26 @@ Code pour [Confusion Matrix](https://github.com/Bratuz/Jaeger/blob/main/detectin
 
 <br/>
 
+Class 0 (Level A1): Out of 311 predictions for this class, 282 were correctly classified, while 29 were incorrectly classified as belonging to higher levels (mainly A2 and B1). This indicates strong performance for this basic level.
+
+Class 1 (Level A2): Out of 327 predictions, 257 were correctly classified. However, 23 texts of level A2 were classified as A1, and 46 as B1, suggesting some confusion between these adjacent levels.
+
+Class 2 (Level B1): Of 323 predictions, 267 were correctly classified. The model had difficulties with 30 texts of level B1 wrongly classified as A2 and 14 as A1. Moreover, there is some confusion with level B2 (10 cases).
+
+Class 3 (Level B2): Out of 344 predictions, 293 were correct. There is notable confusion with level C1 (61 cases), which might indicate a linguistic or structural similarity between these two levels.
+
+Class 4 (Level C1): This class saw 233 out of its 317 predictions correctly classified. The most significant confusion is with level B2 (61 cases), reciprocating the confusion observed for class B2.
+
+Class 5 (Level C2): Out of 298 predictions, 216 were correctly classified. However, there is notable confusion with levels B2 (32 cases) and C1 (39 cases).
+
+General Observations:
+
+The model is quite effective in distinguishing the basic levels (A1 and A2) from more advanced levels.
+There is notable confusion between adjacent levels, particularly between B1 and B2, and between B2 and C1. This might be due to overlaps in linguistic complexity or similar characteristics at these language levels.
+The higher levels (B2, C1, C2) show more significant confusion among themselves, which is understandable given the gradual nature of linguistic skill progression.
+
+<br/>
+
 <h2 align="center">Streamlit</h2>
 
 <br/>
