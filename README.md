@@ -5,12 +5,19 @@
 
  
    
+<div style="text-align: justify;">
+
 Presentation of the problem, our project aims to solve a major challenge in language learning: finding French texts adapted to the varying levels of English-speaking learners. This difficulty in identifying resources adapted to their level of proficiency (A1 to C2) can hinder their progress.
 
+</div>
+
+<div style="text-align: justify;">
+
 Brief description of our solution: We have developed a text embedding model, Camembert, a French version of BERT, to classify French texts according to their difficulty. Our model, trained on an annotated dataset and evaluated on unlabelled texts, accurately predicts the level of difficulty of a text. It thus offers a personalised solution for improving the learning of French by English speakers, by recommending texts appropriate to their level of linguistic competence.
-<br/>
-<br/>
-<br/>
+
+</div>
+
+
 <br/>
 <br/>
 
