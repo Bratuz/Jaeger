@@ -5,18 +5,16 @@
 
  
    
-Présentation du Problème
-Le projet "LingoRank" vise à résoudre un défi majeur dans l'apprentissage des langues : trouver des textes français adaptés aux niveaux variés des apprenants anglophones. Cette difficulté à identifier des ressources adaptées à leur niveau de compétence (A1 à C2) peut freiner leur progression.
+Presentation of the problem, our project aims to solve a major challenge in language learning: finding French texts adapted to the varying levels of English-speaking learners. This difficulty in identifying resources adapted to their level of proficiency (A1 to C2) can hinder their progress.
 
-Brève Description de la Solution
-Nous avons développé un modèle d'intelligence artificielle utilisant Camembert, une version française de BERT, pour classer les textes français selon leur difficulté. Notre modèle, formé sur un ensemble de données annotées et évalué sur des textes non étiquetés, prédit avec précision le niveau de difficulté d'un texte. Il offre ainsi une solution personnalisée pour améliorer l'apprentissage du français chez les anglophones, en recommandant des textes appropriés à leur niveau de compétence linguistique.
+Brief description of our solution: We have developed a text embedding model, Camembert, a French version of BERT, to classify French texts according to their difficulty. Our model, trained on an annotated dataset and evaluated on unlabelled texts, accurately predicts the level of difficulty of a text. It thus offers a personalised solution for improving the learning of French by English speakers, by recommending texts appropriate to their level of linguistic competence.
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-Nous allons donc vous présenter notre application et notre model Jaeger !
+We will introduce and delineate our model, detailing the processes and evaluations we conducted to refine it. Ultimately, we will showcase our Streamlit application that incorporates the model.
 
 <br/>
 
@@ -35,7 +33,7 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 ### With Basic Model
 
-*Voici tout d'abord nos résultats avec les modèles de base que nous avons fait dans un premier temps !*
+*First of all, here are our results with the basic models we made!*
 
 <br/>
 
@@ -60,7 +58,7 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 <br/>
 
 
-Notre modèle le plus efficace utilise Camembert, un outil avancé pour le traitement du langage naturel en français. L'augmentation significative de notre base de données grâce à une technique de double traduction a également joué un rôle crucial dans l'amélioration de nos prédictions. Cette approche nous a permis d'obtenir des résultats plus précis dans la classification du niveau de difficulté des textes français pour les apprenants anglophones.
+Our best-performing model is based on Camembert, a cutting-edge technology for automatic natural language processing specifically designed for French. In addition, we have considerably enriched our dataset by applying a double translation technique, which has considerably improved the accuracy of our predictions. Thanks to this innovative strategy, we were able to classify the difficulty level of French texts more accurately, making it easier for English speakers to learn.
 
 
 <br/>
@@ -71,7 +69,7 @@ Notre modèle le plus efficace utilise Camembert, un outil avancé pour le trait
 
 ### Different hyperparameters
 
-*Voici les ajustements d'hyperparamètres et les méthodes supplémentaires que nous avons intégrés à notre modèle*
+*Here are the hyperparameter adjustments and additional methods we have incorporated into our model*
 
 <br/>
 
@@ -84,7 +82,7 @@ Notre modèle le plus efficace utilise Camembert, un outil avancé pour le trait
 | 128        | 2     | 5.00E-05      | x          | 0.55625               | Camembert       | x                            |
 | 128        | 2     | 2.00E-05      | x          | 0.5625                | Camembert       | x                            |
 | 256        | 6     | x             | x          | 0.577                 | Camembert       | x                            |
-| 256        | 11    | x             | x          | 0.583                 | Camembert       | Ajout de la double traduction|
+| 256        | 11    | x             | x          | 0.583                 | Camembert       | Double translation added|
 
 
 <br/>
