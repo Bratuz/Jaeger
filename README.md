@@ -141,14 +141,14 @@ The higher levels (B2, C1, C2) show more significant confusion among themselves,
 
 Link to the [PhraseError](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Data/PhraseError)
 
-**Confusions entre Niveaux Adjacents :**
-Notre analyse révèle que la majorité des erreurs se situent entre des niveaux de difficulté adjacents, par exemple, des textes de niveau B1 prédits comme A2 ou des textes de niveau C1 prédits comme B2. Cette tendance indique que le modèle a tendance à confondre des niveaux proches. Cette situation est compréhensible, car les nuances subtiles et les progressions graduelles entre ces niveaux de difficulté peuvent être difficiles à discerner pour un modèle automatique.
+**Confusion between adjacent levels:**
+Our analysis reveals that the majority of errors occur between adjacent difficulty levels, for example, B1 level texts predicted as A2 or C1 level texts predicted as B2. This trend indicates that the model tends to confuse closely related levels. This is understandable, as the subtle nuances and gradual progressions between these difficulty levels can be difficult for an automatic model to discern.
 
-**Variété de Contextes et de Structures :**
-Les erreurs de prédiction couvrent une large gamme de contextes et de structures linguistiques. Cela inclut des phrases avec des structures grammaticales complexes, des tournures idiomatiques, et des sujets variés. Cette observation souligne l'importance d'avoir une base de données d'entraînement diversifiée et riche pour que le modèle puisse capturer avec précision toutes les nuances de la langue française.
+**Variety of Contexts and Structures:**
+Prediction errors cover a wide range of contexts and linguistic structures. This includes sentences with complex grammatical structures, idioms, and a variety of topics. This observation highlights the importance of having a diverse and rich training database so that the model can accurately capture all the nuances of the French language.
 
-**Impact de la Longueur et de la Complexité des Phrases :**
-Nous observons également que certaines phrases longues et complexes ont tendance à être surestimées en termes de difficulté, tandis que des phrases plus courtes, mais subtilement complexes, sont sous-estimées. Cela suggère que le modèle pourrait se fier excessivement à la longueur de la phrase ou à la présence de mots complexes pour évaluer la difficulté, ce qui peut mener à des erreurs de classification.
+**Impact of Sentence Length and Complexity:**
+We also observe that some long and complex sentences tend to be overestimated in terms of difficulty, while shorter but subtly complex sentences are underestimated. This suggests that the model may be over-relying on sentence length or the presence of complex words to assess difficulty, which can lead to misclassification.
 
 <br/>
 
