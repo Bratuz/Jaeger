@@ -139,7 +139,16 @@ The higher levels (B2, C1, C2) show more significant confusion among themselves,
 
 *Here's an analysis where we've taken all the sentences that were incorrectly predicted. We then analysed these sentences to see how similar they are*
 
+Link to the [PhraseError](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Data/PhraseError)
 
+**Confusions entre Niveaux Adjacents :**
+Notre analyse révèle que la majorité des erreurs se situent entre des niveaux de difficulté adjacents, par exemple, des textes de niveau B1 prédits comme A2 ou des textes de niveau C1 prédits comme B2. Cette tendance indique que le modèle a tendance à confondre des niveaux proches. Cette situation est compréhensible, car les nuances subtiles et les progressions graduelles entre ces niveaux de difficulté peuvent être difficiles à discerner pour un modèle automatique.
+
+**Variété de Contextes et de Structures :**
+Les erreurs de prédiction couvrent une large gamme de contextes et de structures linguistiques. Cela inclut des phrases avec des structures grammaticales complexes, des tournures idiomatiques, et des sujets variés. Cette observation souligne l'importance d'avoir une base de données d'entraînement diversifiée et riche pour que le modèle puisse capturer avec précision toutes les nuances de la langue française.
+
+**Impact de la Longueur et de la Complexité des Phrases :**
+Nous observons également que certaines phrases longues et complexes ont tendance à être surestimées en termes de difficulté, tandis que des phrases plus courtes, mais subtilement complexes, sont sous-estimées. Cela suggère que le modèle pourrait se fier excessivement à la longueur de la phrase ou à la présence de mots complexes pour évaluer la difficulté, ce qui peut mener à des erreurs de classification.
 
 <br/>
 
