@@ -51,6 +51,24 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 <br/>
 
+### Different hyperparameters
+
+<br/>
+
+| HyperParameters | Max Length | Epoch | Learning Rate | Batch Size | Test Accuracy         | Text Embeddings | New Method                   |
+|-----------------|------------|-------|---------------|------------|-----------------------|-----------------|------------------------------|
+|                 | 256        | 3     | 2.00E-05      | x          | 0.5458333333333333    | Bert            | x                            |
+|                 | 128        | 6     | 5.00E-05      | x          | 0.5489583333333333    | Camembert       | x                            |
+|                 | 256        | 6     | 5.00E-05      | 16         | 0.5375                | Bert            | x                            |
+|                 | 128        | 2     | x             | x          | 0.567708              | Camembert       | x                            |
+|                 | 128        | 2     | 5.00E-05      | x          | 0.55625               | Camembert       | x                            |
+|                 | 128        | 2     | 2.00E-05      | x          | 0.5625                | Camembert       | x                            |
+|                 | 256        | 6     | x             | x          | 0.577 au final        | Camembert       | x                            |
+|                 | 256        | 11    | x             | x          | 0.583 au final        | Camembert       | Ajout de la double traduction|
+
+
+<br/>
+
 ### Our Best Model
 
 <br/>
