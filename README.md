@@ -47,6 +47,10 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 <br/>
 
+### With Text Embeddings Models
+
+<br/>
+
 ### Our Best Model
 
 <br/>
