@@ -33,6 +33,10 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 <br/>
 
+### With Basic Model
+
+<br/>
+
 |                      | Logistic Regression CV | Logistic Regression | kNN    | Decision Tree | Random Forest | SVC    |
 |----------------------|------------------------|---------------------|--------|---------------|---------------|--------|
 | Precision            | 0.4676454066489516     | 0.4434355323004604  | 0.39079983953956327 | 0.28655157769033857 | 0.39660960624031383 | 0.4508158506257017 |
