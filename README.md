@@ -67,25 +67,7 @@ Our best-performing model is based on Camembert, a cutting-edge technology for a
 
 <br/>
 
-### Different hyperparameters
 
-*Here are the hyperparameter adjustments and additional methods we have incorporated into our model*
-
-<br/>
-
-| Max Length | Epoch | Learning Rate | Batch Size | Test Accuracy         | Text Embeddings | New Method                   |
-|------------|-------|---------------|------------|-----------------------|-----------------|------------------------------|
-| 256        | 3     | 2.00E-05      | x          | 0.54583               | Bert            | x                            |
-| 128        | 6     | 5.00E-05      | x          | 0.54896               | Camembert       | x                            |
-| 256        | 6     | 5.00E-05      | 16         | 0.5375                | Bert            | x                            |
-| 128        | 2     | x             | x          | 0.567708              | Camembert       | x                            |
-| 128        | 2     | 5.00E-05      | x          | 0.55625               | Camembert       | x                            |
-| 128        | 2     | 2.00E-05      | x          | 0.5625                | Camembert       | x                            |
-| 256        | 6     | x             | x          | 0.577                 | Camembert       | x                            |
-| 256        | 11    | x             | x          | 0.583                 | Camembert       | Double translation added|
-
-
-<br/>
 
 ### Progress chart based on the methods added
 
@@ -142,6 +124,34 @@ Code pour [Confusion Matrix](https://github.com/Bratuz/Jaeger/blob/main/detectin
 The model is quite effective in distinguishing the basic levels (A1 and A2) from more advanced levels.
 There is notable confusion between adjacent levels, particularly between B1 and B2, and between B2 and C1. This might be due to overlaps in linguistic complexity or similar characteristics at these language levels.
 The higher levels (B2, C1, C2) show more significant confusion among themselves, which is understandable given the gradual nature of linguistic skill progression.
+
+<br/>
+
+### Different hyperparameters
+
+*Here are the hyperparameter adjustments and additional methods we have incorporated into our model*
+
+<br/>
+
+| Max Length | Epoch | Learning Rate | Batch Size | Test Accuracy         | Text Embeddings | New Method                   |
+|------------|-------|---------------|------------|-----------------------|-----------------|------------------------------|
+| 256        | 3     | 2.00E-05      | x          | 0.54583               | Bert            | x                            |
+| 128        | 6     | 5.00E-05      | x          | 0.54896               | Camembert       | x                            |
+| 256        | 6     | 5.00E-05      | 16         | 0.5375                | Bert            | x                            |
+| 128        | 2     | x             | x          | 0.567708              | Camembert       | x                            |
+| 128        | 2     | 5.00E-05      | x          | 0.55625               | Camembert       | x                            |
+| 128        | 2     | 2.00E-05      | x          | 0.5625                | Camembert       | x                            |
+| 256        | 6     | x             | x          | 0.577                 | Camembert       | x                            |
+| 256        | 11    | x             | x          | 0.583                 | Camembert       | Double translation added|
+
+
+<br/>
+
+**Observations**
+
+A longer maximum length and a greater number of epochs seem beneficial, particularly with Camembert and additional methods such as double translation.
+The choice of learning rate and batch size is less clear and merits further testing.
+The use of Camembert, particularly with additional techniques, seems to be a winning strategy for improving model accuracy.
 
 <br/>
 
