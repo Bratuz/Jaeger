@@ -141,6 +141,8 @@ The higher levels (B2, C1, C2) show more significant confusion among themselves,
 
 Link to the [PhraseError](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Data/PhraseError)
 
+<br/>
+
 **Confusion between adjacent levels:**
 Our analysis reveals that the majority of errors occur between adjacent difficulty levels, for example, B1 level texts predicted as A2 or C1 level texts predicted as B2. This trend indicates that the model tends to confuse closely related levels. This is understandable, as the subtle nuances and gradual progressions between these difficulty levels can be difficult for an automatic model to discern.
 
@@ -185,10 +187,9 @@ The use of Camembert, particularly with additional techniques, seems to be a win
 <h2 align="center">Streamlit</h2>
 
 <br/>
+ 
 
-Voici le code : 
-
-Lien pour code : [Streamlit](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/StreamlitJaeger.py)
+Link for code : [Streamlit](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/StreamlitJaeger.py)
 
 <br/>
 
@@ -196,7 +197,7 @@ Lien pour code : [Streamlit](https://github.com/Bratuz/Jaeger/blob/main/detectin
 
 <br/>
 
-Lien vidéo
+Link for video
 
 
 
