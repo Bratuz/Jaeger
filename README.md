@@ -53,6 +53,22 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 <br/>
 
+
+
+### Our Best Model
+
+<br/>
+
+
+Notre modèle le plus efficace utilise Camembert, un outil avancé pour le traitement du langage naturel en français. L'augmentation significative de notre base de données grâce à une technique de double traduction a également joué un rôle crucial dans l'amélioration de nos prédictions. Cette approche nous a permis d'obtenir des résultats plus précis dans la classification du niveau de difficulté des textes français pour les apprenants anglophones.
+
+
+<br/>
+
+(Lien vers notre model à mettre) !!!!!
+
+<br/>
+
 ### Different hyperparameters
 
 *Voici les ajustements d'hyperparamètres et les méthodes supplémentaires que nous avons intégrés à notre modèle*
@@ -70,20 +86,6 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 | 256        | 6     | x             | x          | 0.577                 | Camembert       | x                            |
 | 256        | 11    | x             | x          | 0.583                 | Camembert       | Ajout de la double traduction|
 
-
-<br/>
-
-### Our Best Model
-
-<br/>
-
-
-Notre modèle le plus efficace utilise Camembert, un outil avancé pour le traitement du langage naturel en français. L'augmentation significative de notre base de données grâce à une technique de double traduction a également joué un rôle crucial dans l'amélioration de nos prédictions. Cette approche nous a permis d'obtenir des résultats plus précis dans la classification du niveau de difficulté des textes français pour les apprenants anglophones.
-
-
-<br/>
-
-(Lien vers notre model à mettre) !!!!!
 
 <br/>
 
