@@ -3,7 +3,7 @@
 
 <h2 align="center">Introduction</h2>
 
-
+ 
    
 Présentation du Problème
 Le projet "LingoRank" vise à résoudre un défi majeur dans l'apprentissage des langues : trouver des textes français adaptés aux niveaux variés des apprenants anglophones. Cette difficulté à identifier des ressources adaptées à leur niveau de compétence (A1 à C2) peut freiner leur progression.
