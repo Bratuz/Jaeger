@@ -88,9 +88,10 @@ Our best-performing model is based on Camembert, a cutting-edge technology for a
 
 
 <br/>
-<td>
-        <img src = "https://github.com/Bratuz/Jaeger/assets/119636152/37774453-e7b8-45dd-82ac-f7654739c4d1)" width="400" align="center">
-      </td>
+<div align="center">
+    <img src="https://github.com/Bratuz/Jaeger/assets/119636152/37774453-e7b8-45dd-82ac-f7654739c4d1" width="400">
+</div>
+
       
 <br/>
 
