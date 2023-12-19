@@ -89,12 +89,11 @@ A FAIRE ENCORE
 
 
 
-<h2 align="center">Analyse</h2>
+<h2 align="center">Analysis</h2>
 
 <br/>
 
-Expliquer un peu pourquoi ducoup pourquoi ca été notre meilleur modele, quelles ont été les fonctions méthodes qui ont permis ce score blablabl
-
+As part of our project, we carried out an in-depth analysis of our current French text classification model, which is intended to help English-speaking learners. The aim of this analysis is to identify aspects of the model that work well and those that may present challenges.
 <br/>
 
 ### Confusion Matrix
