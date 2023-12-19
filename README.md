@@ -96,6 +96,16 @@ A FAIRE ENCORE
 
 <br/>
 
+
+
+<h2 align="center">Analyse</h2>
+
+<br/>
+
+Expliquer un peu pourquoi ducoup pourquoi ca été notre meilleur modele, quelles ont été les fonctions méthodes qui ont permis ce score blablabl
+
+<br/>
+
 ### Confusion Matrix
 
 <br/>
@@ -109,15 +119,6 @@ A FAIRE ENCORE
 
 Code pour [Confusion Matrix](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Confusion_Matrix.ipynb)
 
-
-<br/>
-
-
-<h2 align="center">Analyse</h2>
-
-<br/>
-
-Expliquer un peu pourquoi ducoup pourquoi ca été notre meilleur modele, quelles ont été les fonctions méthodes qui ont permis ce score blablabl
 
 <br/>
 
