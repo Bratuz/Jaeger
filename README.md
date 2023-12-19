@@ -39,12 +39,12 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 <br/>
 
-|                      | Logistic Regression CV | Logistic Regression | kNN    | Decision Tree | Random Forest | SVC    |
+|                      | [Logistic Regression CV](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Test/LogisticRegressionCV.ipynb) | [Logistic Regression](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Test/LogisticRegression.ipynb) | [kNN](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Test/KNN.ipynb) | [Decision Tree](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Test/Decision_tree.ipynb) | [Random Forest](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Test/Random_forest.ipynb) | [SVC](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/Test/SVC.ipynb) |
 |----------------------|------------------------|---------------------|--------|---------------|---------------|--------|
-| Precision            | 0.467645     | 0.443436  | 0.390799 | 0.286552 | 0.396609 | 0.450816 |
-| Recall               | 0.471875               | 0.451042  | 0.31875 | 0.29375       | 0.391667 | 0.455208 |
-| F1-score             | 0.467331             | 0.442974 | 0.294806 | 0.286576  | 0.377691 | 0.450922 |
-| Accuracy             | 0.471875               | 0.451042  | 0.31875 | 0.29375       | 0.391667 | 0.455208 |
+| Precision            | 0.467645               | 0.443436            | 0.390799 | 0.286552     | 0.396609     | 0.450816 |
+| Recall               | 0.471875               | 0.451042            | 0.31875  | 0.29375      | 0.391667     | 0.455208 |
+| F1-score             | 0.467331               | 0.442974            | 0.294806 | 0.286576     | 0.377691     | 0.450922 |
+| Accuracy             | 0.471875               | 0.451042            | 0.31875  | 0.29375      | 0.391667     | 0.455208 |
 
 
 <br/>
