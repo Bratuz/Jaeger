@@ -135,6 +135,16 @@ The higher levels (B2, C1, C2) show more significant confusion among themselves,
 
 <br/>
 
+### Analysis of a concrete example of an error
+
+*Here's an analysis where we've taken all the sentences that were incorrectly predicted. We then analysed these sentences to see how similar they are*
+
+
+
+<br/>
+
+<br/>
+
 ### Different hyperparameters
 
 *Here are the hyperparameter adjustments and additional methods we have incorporated into our model*
