@@ -35,6 +35,8 @@ Nous allons donc vous présenter notre application et notre model Jaeger !
 
 ### With Basic Model
 
+*Voici tout d'abord nos résultats avec les modèles de base que nous avons fait dans un premier temps !*
+
 <br/>
 
 |                      | Logistic Regression CV | Logistic Regression | kNN    | Decision Tree | Random Forest | SVC    |
