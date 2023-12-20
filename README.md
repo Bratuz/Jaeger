@@ -214,6 +214,12 @@ Link for the drive for the all streamlit : https://drive.google.com/drive/folder
 
 **"Linguistic Analysis" Tab:** Here, our artificial intelligence model comes into play. After you input a sentence, the application meticulously analyzes it, breaking down each word to identify and explain its level of difficulty. This feature aims to help you understand the complexity of your sentence and pinpoint specific areas for improving your mastery of French.
 
+*The second part of our application features a "Forme toi en Ligne" page.*
+
+**"Learn Vocabulary" Tab:** This tab enables you to learn vocabulary tailored to your proficiency level. After studying, you can check your answers with an automatic corrector. Interestingly, if you refresh the page, you will be presented with 8 new vocabulary questions, providing a dynamic and evolving learning experience.
+
+**"Audio Exercises" Tab:** Depending on your level of French, this tab offers audio exercises. These exercises are designed to enhance your listening skills and comprehension, providing a practical approach to learning.
+
 <br/>
 
 <h2 align="center">Youtube Video</h2>
