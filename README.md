@@ -206,6 +206,16 @@ Link for the drive for the all streamlit : https://drive.google.com/drive/folder
 
 <br/>
 
+###Explanation
+
+**"Level Assessment" Tab:** In this first section, you are prompted to assess your French proficiency. Simply write a sentence in the provided space, and our system will analyze your linguistic competence. This is a quick and interactive way to gauge your current level of French.
+
+**"Recommended Readings" Tab:** Based on your assessed French level, this tab offers a personalized selection of texts and articles. Whether you're a beginner, intermediate, or advanced learner, you'll find suitable readings to enhance your understanding and enrich your vocabulary.
+
+**"Linguistic Analysis" Tab:** Here, our artificial intelligence model comes into play. After you input a sentence, the application meticulously analyzes it, breaking down each word to identify and explain its level of difficulty. This feature aims to help you understand the complexity of your sentence and pinpoint specific areas for improving your mastery of French.
+
+<br/>
+
 <h2 align="center">Youtube Video</h2>
 
 <br/>
