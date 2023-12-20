@@ -202,6 +202,8 @@ The use of Camembert, particularly with additional techniques, seems to be a win
 
 Link for code : [Streamlit](https://github.com/Bratuz/Jaeger/blob/main/detecting-french-texts-difficulty-level-2023/StreamlitJaeger.py)
 
+Link for the drive for the all streamlit : https://drive.google.com/drive/folders/1ESaKoaXBJfiWao-Rl32Cxa-4uyNJydaB?usp=sharing
+
 <br/>
 
 <h2 align="center">Youtube Video</h2>
